@@ -1,0 +1,16 @@
+.row{
+    display: inline-flex
+}
+
+.name{
+    padding-right: 2rem;
+}
+.price{
+    padding-right: 2rem;
+}
+.tCost{
+    padding-right: 2rem;
+}
+.quantity{
+    padding-right: 2rem;
+}

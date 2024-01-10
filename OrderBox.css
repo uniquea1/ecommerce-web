@@ -1,0 +1,33 @@
+form{
+    width: 14rem;
+    display: flex; 
+    flex-direction: column;
+    background: rgb(17, 17, 17);
+    border-radius: 0rem 2rem 2rem 0rem;
+    border-style: solid;
+    border-width: 0.01rem;
+    border-color: rgb(127, 127, 127);
+    padding: 2rem;
+    margin: 1rem;
+}
+
+.checkBox{
+    display: flex;
+    flex-direction: row;
+    padding-top: 1rem;
+}
+
+.quantityInput{
+    width: 2rem;
+    border-style: none;
+    padding: 0.2rem;
+    border-radius: 0.2rem;
+}
+
+button{
+    margin-top: 1rem;
+}
+
+.note-form{
+    
+}

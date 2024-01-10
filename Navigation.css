@@ -1,0 +1,13 @@
+nav{
+    display: inline-flex;
+    gap: 70rem;
+    align-items: center;
+    text-align: center;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.navBar{
+    width: 92rem;
+    margin-bottom: 12rem;
+}
